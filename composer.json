@@ -1,0 +1,19 @@
+{
+  "name": "hanshs474/fitv-freeimagetovideo",
+  "description": "Free image to video AI with no daily cap: your first clip needs no sign-up, then a free account keeps going. Every video comes with sound and no watermark.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://freeimagetovideo.ai",
+  "authors": [
+    {
+      "name": "hanshs474"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "support": {
+    "docs": "https://freeimagetovideo.ai",
+    "source": "https://github.com/hanshs474/fitv-freeimagetovideo"
+  }
+}
